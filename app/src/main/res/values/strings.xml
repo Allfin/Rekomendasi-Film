@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Rekomendasi Film</string>
+    // Genres
+    <string name="action">Action</string>
+    <string name="comedy">Comedy</string>
+    <string name="horror">Horror</string>
+
+    // Actions
+    <string name="dune">Dune</string>
+    <string name="dune_release">October 1, 2021</string>
+    <string name="end_game">Avengers: Endgame</string>
+    <string name="end_game_release">April 24, 2019</string>
+    <string name="silent_night">Silent Night</string>
+    <string name="silent_night_release">December 1, 2023</string>
+    <string name="the_family_plan">The Family Plan</string>
+    <string name="the_family_plan_release">December 15, 2023</string>
+    <string name="john_wick_chapter_4">John Wick: Chapter 4</string>
+    <string name="john_wick_hapter_4_release">Mar 22, 2023</string>
+    <string name="godzilla_x_kong_the_new_empire">Godzilla x Kong: The New Empire</string>
+    <string name="godzilla_x_kong_the_new_empire_release">Mar 27, 2024</string>
+
+    // List Horror
+    <string name="the_return">The Return</string>
+    <string name="the_return_release">Sep 05, 2020</string>
+    <string name="skal">Skal - Fight for Survival</string>
+    <string name="skal_release">Nov 24, 2023</string>
+    <string name="the_farm">The Farm</string>
+    <string name="the_farm_release">Apr 19, 2019</string>
+    <string name="while_we_sleep">While We Sleep</string>
+    <string name="while_we_sleep_release">Oct 01, 2021</string>
+    <string name="no_way_up">No Way Up</string>
+    <string name="no_way_up_release">Jan 18, 2024</string>
+    <string name="meg_2_the_trench">Meg 2 The Trench</string>
+    <string name="meg_2_the_trench_relase">Aug 02, 2023</string>
+
+    // Comedy
+    <string name="role_play">Role Play</string>
+    <string name="role_play_release">Jan 04, 2024</string>
+    <string name="upgraded">Upgraded</string>
+    <string name="upgraded_release">Feb 07, 2024</string>
+    <string name="barbie">Barbie</string>
+    <string name="barbie_release">Jul 19, 2023</string>
+    <string name="migration">Migration</string>
+    <string name="migration_release">Dec 06, 2023</string>
+    <string name="anyone_but_you">Anyone But You</string>
+    <string name="anyone_but_you_release">Dec 21, 2023</string>
+    <string name="wonka">Wonka</string>
+    <string name="wonka_release">Dec 06, 2023</string>
+</resources>
